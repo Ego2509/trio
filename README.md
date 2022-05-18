@@ -1406,6 +1406,9 @@ The result shown above, shows that *len(a_priori_common)* is equal to the **z** 
 ## Selecting individual tuples from the exomes files : *extract_tuples_pro* function
 
 
+```python
+
+```
 
 
 ```python
