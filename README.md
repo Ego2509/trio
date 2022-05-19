@@ -1,4 +1,3 @@
-**Powered by the Group of Primary Immunodeficiencies [![idp.jpg](https://i.postimg.cc/tgCP2xWV/idp.jpg)](https://postimg.cc/3kVdwWLK)**
 
 # Trio: Python library to compare 3 different sets of data/dataframes/exomes and get the matching variants (regions of a Venn diagram)
 
@@ -32,3 +31,5 @@ And there we go! If you want to see some examples and cases, please refer to the
 ## License
 
 MIT
+
+** [![idp.jpg](https://i.postimg.cc/tgCP2xWV/idp.jpg)](https://postimg.cc/3kVdwWLK) Powered by the Group of Primary Immunodeficiencies **
