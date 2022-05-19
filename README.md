@@ -1,7 +1,7 @@
-# Trio
-## Python library to compare 3 different sets of data/dataframes/exomes and get the matching variants (regions of a Venn diagram)
+# Trio: Python library to compare 3 different sets of data/dataframes/exomes and get the matching variants (regions of a Venn diagram)
 
 This set of functions allows to export the matching Venn spaces onto a dataframe and visualize the result on a Venn diagram.
+
 ## Features
 - Customizable column filtering (props_)
 - Export the obtained region using the pandas.DataFrame object
@@ -10,7 +10,7 @@ This set of functions allows to export the matching Venn spaces onto a dataframe
 ## Installation
 Start by downloading the folling libraries to your virtual environment
 ```sh
-(your-venv)$ pip install pandas matplotlib matplotlib_venn
+(your-venv)$ pip install pandas matplotlib_venn
 ```
 On your working directory, download the functions
 ```sh
@@ -21,7 +21,6 @@ Import the libraries on your python script or notebook
 ```py
 import numpy as np
 import pandas as pd 
-import matplotlib.pyplot as plt
 from matplotlib_venn import venn3_unweighted as venn3
 import trio
 ```
@@ -31,4 +30,3 @@ And there we go! If you want to see some examples and cases, please refer to the
 ## License
 
 MIT
-**Free Software, Hell Yeah!**
