@@ -32,4 +32,5 @@ And there we go! If you want to see some examples and cases, please refer to the
 
 MIT
 
-** [![idp.jpg](https://i.postimg.cc/tgCP2xWV/idp.jpg)](https://postimg.cc/3kVdwWLK) Powered by the Group of Primary Immunodeficiencies **
+**Powered by**
+[![idp-v-jeffrey-logo.png](https://i.postimg.cc/jjLCF0dR/idp-v-jeffrey-logo.png)](https://postimg.cc/TyvRKsDs)
