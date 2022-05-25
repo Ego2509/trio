@@ -13,6 +13,11 @@ Start by downloading the folling libraries to your virtual environment
 ```sh
 (your-venv)$ pip install pandas matplotlib_venn
 ```
+If you have conda, you can install pip as well
+```sh
+(your-conda-venv)$ conda install pip
+(your-conda-venv)$ pip install pandas matplotlib_venn
+```
 On your working directory, download the functions
 ```sh
 cd my_project
