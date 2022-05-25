@@ -1,5 +1,5 @@
-# Trio: Python library to compare 3 different sets of data/dataframes/exomes and get the matching variants (regions of a Venn diagram)
-![Group of Primmary Immunodeficiencies](https://ibb.co/f0ZqXJ2)
+
+# [Trio](https://ego2509.github.io/trio/): Python library to compare 3 different sets of data/dataframes/exomes and get the matching variants (regions of a Venn diagram)
 
 This set of functions allows to export the matching Venn spaces onto a dataframe and visualize the result on a Venn diagram.
 
@@ -31,3 +31,7 @@ And there we go! If you want to see some examples and cases, please refer to the
 ## License
 
 MIT
+
+## Powered by
+
+[![idp-v-jeffrey-logo.png](https://i.postimg.cc/jjLCF0dR/idp-v-jeffrey-logo.png)](https://postimg.cc/TyvRKsDs)
