@@ -6,7 +6,7 @@ This set of functions allows to export the matching Venn spaces onto a dataframe
 ## Features
 - Customizable column filtering (props_)
 - Export the obtained region using the pandas.DataFrame object
-- Draw the Venn Diagram with the given filters with the Venn3 python library and customize it with Vtags
+- Draw the Venn Diagram with the given filters with the Venn3 python library and customize it (Vtags)
 
 ## Installation
 Start by downloading the folling libraries to your virtual environment
