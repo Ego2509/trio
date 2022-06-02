@@ -30,7 +30,7 @@ import pandas as pd
 from matplotlib_venn import venn3_unweighted as venn3
 import trio
 ```
-And there we go! If you want to see some examples and cases, please refer to the following [python notebook](https://ego2509.github.io/trio/).
+And there we go! If you want to see some examples and cases, please refer to the following [python notebook](https://ego2509.github.io/trio/). This notebook will be updated in the near future.
 
 
 ## License
